@@ -1,4 +1,4 @@
-# Haste Client
+# Haste Client for hasteinkykinky.net
 
 [![Build Status](https://secure.travis-ci.org/seejohnrun/haste-client.png)](http://travis-ci.org/seejohnrun/haste-client)
 
