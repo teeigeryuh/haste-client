@@ -3,7 +3,7 @@ require 'faraday'
 
 module Haste
 
-  DEFAULT_URL = 'http://paste.inky.xyz'
+  DEFAULT_URL = 'http://paste.socket.id'
 
   class Uploader
 
